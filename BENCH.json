@@ -540,10 +540,11 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "e05d8d34b2a44fdef556ce95dd90115b46630200",
-   "url": "https://github.com/Martian-Engineering/lossless-claw",
-   "branch": "main",
-   "sha_verified_from": "GitHub API commits/main"
+   "url": "https://github.com/mifi/lossless-cut",
+   "head": "4c7ab1cb0c9acaefabb48e997bc909562dc3624d",
+   "sha_verified_from": "GitHub API commits lookup 2026-11-17",
+   "previous_substitute": "https://github.com/Martian-Engineering/lossless-claw",
+   "correction": "README and description match mifi/lossless-cut; lossless-claw pointer was a substitute error"
   }
  }
 }
